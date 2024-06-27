@@ -14,7 +14,7 @@ header {
     justify-content: space-between;
 }
 @media (max-width:991px){
-    .firstnav .contact-box{
+    .firstnav {
         display: none;
     }
 }
